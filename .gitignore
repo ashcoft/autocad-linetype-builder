@@ -36,3 +36,5 @@ coverage/
 
 # dotenv environment variables file
 .env
+.agent/dist/
+.agent/node_modules/
