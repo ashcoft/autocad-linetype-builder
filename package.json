@@ -8,10 +8,17 @@
     "dev": "npx live-server --port=3000",
     "build": "echo 'Static site - no build process needed'"
   },
-  "keywords": ["website", "html", "css", "javascript"],
+  "keywords": [
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+    "live-server": "^1.2.2",
+    "nx": "24.0.6"
+  },
+  "nx": {}
 }
